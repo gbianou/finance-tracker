@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ticker: MyString
+  : MyString
+  name: MyString
+  : MyString
+  price: MyString
+  : 9.99
+
+two:
+  ticker: MyString
+  : MyString
+  name: MyString
+  : MyString
+  price: MyString
+  : 9.99
